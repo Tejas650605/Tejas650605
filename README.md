@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Tejas%20Kherade&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AWS%20%7C%20DevOps%20%7C%20Linux%20Enthusiast&descAlignY=55"/>
 </p>
-# 🛠 Skills & Tools
+**# 🛠 Skills & Tools**
 
 ## ☁️ Cloud & DevOps
 
@@ -14,7 +14,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
-![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Linux](https://img.shields.io/badge/Linux-Explorer-black?style=for-the-badge&logo=linux&logoColor=FCC624)
 
 ## 💻 Web Development
 
