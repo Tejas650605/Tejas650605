@@ -14,7 +14,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 
 ---
-![Linux](https://img.shields.io/badge/Linux-Enthusiast-0A0A0A?style=for-the-badge&logo=linux&logoColor=00FFAA)
+![Linux](https://img.shields.io/badge/Linux-Expert-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ## 💻 Web Development
 
