@@ -35,7 +35,22 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas650605&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas650605&theme=tokyonight"/>
 </p>
+### 🔥 Linux System Administration Toolkit
+A menu-driven Linux administration toolkit developed using Bash scripting.
 
+#### Features:
+- 📅 Show Current Date
+- 👤 Show Current User
+- 📂 Show Files and Folders
+- 💽 Disk Usage Monitoring
+- ⚙️ Running Process Monitoring
+- 📝 Report Generation
+- 💾 Backup Automation
+- 🔐 Password Protection
+- 🎨 Colorful Terminal Output
+
+🔗 Project Link:
+https://github.com/Tejas650605/linux-admin-toolkit
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Tejas650605/Tejas650605/blob/output/github-contribution-grid-snake.svg)
