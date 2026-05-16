@@ -27,6 +27,7 @@
 | Project | Link |
 |----------|------|
 | 📱 Mobile Shopping Portal | [Open Project](https://github.com/Tejas650605/Mobile-Shopping-Portal) |
+| 🐧 Linux Admin Toolkit | [Open Project](https://github.com/Tejas650605/linux-admin-toolkit) |
 | ☁️ AWS S3 Time-Based Policy | [Open Project](https://github.com/Tejas650605/AWS-S3-Time-Based-Access-Policy) |
 | 🔐 AWS IAM Region Restricted Policy | [Open Project](https://github.com/Tejas650605/AWS-IAM-Region-Restricted-EC2-Policy) |
 | 📦 AWS S3 Presigned URL Project | [Open Project](https://github.com/Tejas650605/AWS-S3-Presigned-URL-Resume-Project) |
@@ -35,22 +36,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tejas650605&show_icons=true&theme=tokyonight"/>
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Tejas650605&theme=tokyonight"/>
 </p>
-### 🔥 Linux System Administration Toolkit
-A menu-driven Linux administration toolkit developed using Bash scripting.
 
-#### Features:
-- 📅 Show Current Date
-- 👤 Show Current User
-- 📂 Show Files and Folders
-- 💽 Disk Usage Monitoring
-- ⚙️ Running Process Monitoring
-- 📝 Report Generation
-- 💾 Backup Automation
-- 🔐 Password Protection
-- 🎨 Colorful Terminal Output
-
-🔗 Project Link:
-https://github.com/Tejas650605/linux-admin-toolkit
 ## 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Tejas650605/Tejas650605/blob/output/github-contribution-grid-snake.svg)
